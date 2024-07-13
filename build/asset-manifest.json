@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4962979c.css",
+    "main.js": "/static/js/main.b0cf75a9.js",
+    "static/media/3769238.jpg": "/static/media/3769238.5214a317d04c4ef91f37.jpg",
+    "static/media/blue-storm_181624-5004.jpg": "/static/media/blue-storm_181624-5004.c8ba205298f8817e75fd.jpg",
+    "static/media/mesmerizing-scenery-reflection-snowy-mountains-lake_181624-32119.jpg": "/static/media/mesmerizing-scenery-reflection-snowy-mountains-lake_181624-32119.f5f30cb35f0f26d6ca6e.jpg",
+    "static/media/mountain-landscape-majestic-peak-tranquil-reflection-stunning-sunset-generated-by-ai_188544-15518.jpg": "/static/media/mountain-landscape-majestic-peak-tranquil-reflection-stunning-sunset-generated-by-ai_188544-15518.da0d3e5e590308673a4c.jpg",
+    "static/media/tropical-palm-leaves-pattern-background-green-monstera-tree-foliage-decoration-design-plant-with-exotic-leaf-closeup_90220-1380.avif": "/static/media/tropical-palm-leaves-pattern-background-green-monstera-tree-foliage-decoration-design-plant-with-exotic-leaf-closeup_90220-1380.caf615f8b401ee57a2ce.avif",
+    "static/media/beautiful-nature-landscape-with-mountains-lake_23-2150705872.jpg": "/static/media/beautiful-nature-landscape-with-mountains-lake_23-2150705872.616dd7e86c40f299f413.jpg",
+    "static/media/beautiful-nature-landscape-with-mountains-lake_23-2150706061.jpg": "/static/media/beautiful-nature-landscape-with-mountains-lake_23-2150706061.46b25bee5f49b9a38b04.jpg",
+    "static/media/header-bg.png": "/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/sun.svg": "/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/twitter.svg": "/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/index.html",
+    "main.4962979c.css.map": "/static/css/main.4962979c.css.map",
+    "main.b0cf75a9.js.map": "/static/js/main.b0cf75a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4962979c.css",
+    "static/js/main.b0cf75a9.js"
+  ]
+}
